@@ -53,7 +53,6 @@ function makeSound(key) {
       break;
 
     default:
-      alert("Key is pressed");
       break;
   }
 }
